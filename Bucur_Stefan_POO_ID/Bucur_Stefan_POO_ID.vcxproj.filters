@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="roboti.cpp">
+    <ClCompile Include="masini.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
